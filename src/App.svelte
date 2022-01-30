@@ -1,8 +1,6 @@
 <script>
     import 'chota';
 
-    import {Input,Button} from 'svelte-chota';
-    
     import AppStore from '@Stores/app.stores';
 
 </script>
